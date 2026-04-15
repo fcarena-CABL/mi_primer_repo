@@ -1,0 +1,15 @@
+/workspaces/mi_primer_repo/EjemploDotnet/bin/Debug/net10.0/EjemploDotnet
+/workspaces/mi_primer_repo/EjemploDotnet/bin/Debug/net10.0/EjemploDotnet.deps.json
+/workspaces/mi_primer_repo/EjemploDotnet/bin/Debug/net10.0/EjemploDotnet.runtimeconfig.json
+/workspaces/mi_primer_repo/EjemploDotnet/bin/Debug/net10.0/EjemploDotnet.dll
+/workspaces/mi_primer_repo/EjemploDotnet/bin/Debug/net10.0/EjemploDotnet.pdb
+/workspaces/mi_primer_repo/EjemploDotnet/obj/Debug/net10.0/EjemploDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/mi_primer_repo/EjemploDotnet/obj/Debug/net10.0/EjemploDotnet.AssemblyInfoInputs.cache
+/workspaces/mi_primer_repo/EjemploDotnet/obj/Debug/net10.0/EjemploDotnet.AssemblyInfo.cs
+/workspaces/mi_primer_repo/EjemploDotnet/obj/Debug/net10.0/EjemploDotnet.csproj.CoreCompileInputs.cache
+/workspaces/mi_primer_repo/EjemploDotnet/obj/Debug/net10.0/EjemploDotnet.sourcelink.json
+/workspaces/mi_primer_repo/EjemploDotnet/obj/Debug/net10.0/EjemploDotnet.dll
+/workspaces/mi_primer_repo/EjemploDotnet/obj/Debug/net10.0/refint/EjemploDotnet.dll
+/workspaces/mi_primer_repo/EjemploDotnet/obj/Debug/net10.0/EjemploDotnet.pdb
+/workspaces/mi_primer_repo/EjemploDotnet/obj/Debug/net10.0/EjemploDotnet.genruntimeconfig.cache
+/workspaces/mi_primer_repo/EjemploDotnet/obj/Debug/net10.0/ref/EjemploDotnet.dll
